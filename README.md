@@ -1,4 +1,4 @@
-# Two_Player_Battle_Tank_Game
-Two player battle tank game in unity.
+# Unity tutorial project by unity
 
-## Multiplayer
+This is a simple two player battle tank war project.I forked this project from unity's official website and this whole project is developed by the guidance provided by the Unity in its official video lectures.
+
